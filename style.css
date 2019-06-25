@@ -43,3 +43,11 @@ h4{
 	text-align: center;
 	padding: 1px;
 }
+
+#search {
+	 border:500px lightgray;
+    padding: 0px;
+    width: 350px;
+     margin:0 auto;
+      float: center;
+}
